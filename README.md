@@ -38,7 +38,8 @@
 
 
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
+<!-- BLOG-POST-LIST:START -->
+- [Weekly Review — 3/10](https://medium.com/@GyoPark/weekly-review-3-10-9273dca82d8e?source=rss-50b43000d867------2)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
