@@ -42,9 +42,6 @@
 - [Weekly Review — 3/10](https://medium.com/@GyoPark/weekly-review-3-10-9273dca82d8e?source=rss-50b43000d867------2)
 <!-- BLOG-POST-LIST:END -->  
 
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
 
 <br/>  
 
