@@ -38,9 +38,6 @@
 
 
 ## Recent Blog Posts  
-
-
-### https://medium.com/@GyoPark/weekly-review-3-10-9273dca82d8e  
 <!-- BLOG-POST-LIST:START -->  
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->  
