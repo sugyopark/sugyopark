@@ -40,7 +40,7 @@
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
 - [Weekly Review —  3rd Week of March, 2024](https://medium.com/@GyoPark/weekly-review-march-3rd-2024-8e459ac5c334?source=rss-50b43000d867------2)
-- [Weekly Review — 2nd Week of March, 2024](https://medium.com/@GyoPark/weekly-review-3-10-9273dca82d8e?source=rss-50b43000d867------2)
+- [Weekly Review —2nd Week of March, 2024](https://medium.com/@GyoPark/weekly-review-3-10-9273dca82d8e?source=rss-50b43000d867------2)
 <!-- BLOG-POST-LIST:END -->  
 
 
